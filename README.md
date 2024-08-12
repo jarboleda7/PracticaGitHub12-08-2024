@@ -1,1 +1,1 @@
-# PracticaGitHub12-08-2024
+Esto es un proyecto de práctica de GitHub en clases.
