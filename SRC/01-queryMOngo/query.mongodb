@@ -1,0 +1,7 @@
+use("samuelbofacturas")
+
+db.facturas.find()
+
+
+
+
